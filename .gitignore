@@ -1,0 +1,20 @@
+# Secrets — NEVER commit your Gemini key
+gemini_key.txt
+
+# User preferences / runtime files
+lang.txt
+error_log.txt
+rotogo.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / editors
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.swp
